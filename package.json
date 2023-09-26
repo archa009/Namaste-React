@@ -1,0 +1,17 @@
+{
+  "name": "Namaste-React",
+  "version": "1.0.0",
+  "description": "This is namaste react by Akshay",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Archa Agrawal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
